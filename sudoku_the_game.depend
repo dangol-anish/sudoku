@@ -1,15 +1,11 @@
 # depslib dependency file v1.0
-1677080351 source:c:\cp_sudoku\sudoku_game\main.c
+1677412781 source:c:\codeblocks\sudoku_the_game\main.c
 	<gtk/gtk.h>
 	<stdio.h>
 	<conio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
-	"printfunctions.h"
-	"helperfunctions.h"
-	"sudoku_algorithms.h"
-	"filedirectory.h"
 	"gtk_callback_functions.h"
 
 1672349189 c:\msys64\mingw64\include\gtk-3.0\gtk\gtk.h
@@ -3248,13 +3244,5 @@
 1676130072 c:\msys64\mingw64\include\sec_api\conio_s.h
 	<conio.h>
 
-1677077096 c:\cp_sudoku\sudoku_game\printfunctions.h
-
-1677077096 c:\cp_sudoku\sudoku_game\helperfunctions.h
-
-1677077083 c:\cp_sudoku\sudoku_game\sudoku_algorithms.h
-
-1677077096 c:\cp_sudoku\sudoku_game\filedirectory.h
-
-1677081305 c:\cp_sudoku\sudoku_game\gtk_callback_functions.h
+1677412294 c:\codeblocks\sudoku_the_game\gtk_callback_functions.h
 
